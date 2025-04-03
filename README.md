@@ -10,7 +10,7 @@ Clone the repository from github
 
 ```bash
 #git
-git clone https://github.com/allandereal/klan-api .
+git clone https://github.com/allandereal/klan-api
 ```
 
 Make sure to install the dependencies:
