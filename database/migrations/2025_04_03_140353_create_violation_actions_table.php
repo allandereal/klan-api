@@ -17,7 +17,7 @@ return new class extends Migration
             $table->dateTime('record_date');
             $table->dateTime('action_date');
             $table->string('action_taken', 500);
-            $table->text('other_remarks');
+            $table->text('other_remarks')->nullable();
         });
     }
 
