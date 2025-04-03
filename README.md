@@ -20,6 +20,13 @@ Make sure to install the dependencies:
 composer install
 ```
 
+Run migrations:
+
+```bash
+# php
+php artisan migrate
+```
+
 ## Development Server
 
 Start the development server on `http://localhost:8000`:
